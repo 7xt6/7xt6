@@ -1,8 +1,8 @@
-## Olá, sou 7xt6
-- Programador em NodeJs, Html, Css, Python, e aprendendo C++
+## Olá, sou Nunes
+- Aprendendo Python e Javascript
 
 
-## Olá, sou l2qqz, programador de bots do discord
+## Olá, sou Nunes e quero virar programador de bots do discord.
 
 
 <div style="display: inline_block"><br>
@@ -14,12 +14,6 @@
 </div>
   
   ##
- 
-<div> 
- 	<a href="https://www.twitch.tv/l2qqz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/q8P5fMP2aU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l2qqz/l2qqz/output/github-contribution-grid-snake-dark.svg">
